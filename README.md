@@ -3,10 +3,10 @@
   Welcome to my GitHub space! 🚀
 
 <a href="https://github.com/balivarun">
-  <img height="280em"
+  <img height="180em"
        src="https://github-readme-stats.vercel.app/api?username=balivarun&show_icons=true"
        alt="Varun's GitHub Stats" />
-  <img height="280em"
+  <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=balivarun"
        alt="Varun's Top Languages" />
 </a>
