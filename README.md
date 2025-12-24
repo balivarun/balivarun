@@ -4,7 +4,7 @@
 
 <a href="https://github.com/balivarun">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=balivarun&show_icons=true"
+       src="https://github-readme-stats.vercel.app/api?username=balivarun"
        alt="Varun's GitHub Stats" />
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=balivarun"
