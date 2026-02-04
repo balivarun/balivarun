@@ -1,53 +1,62 @@
-  # 👋 Hi, I'm Varun Bali
+# 👋 Hi, I'm Varun Bali
 
-  Welcome to my GitHub space! 🚀
+🚀 Full-Stack Developer  
+💻 Java | Spring Boot | React | TypeScript | MongoDB
 
-<a href="https://github.com/balivarun">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=balivarun"
-       alt="Varun's GitHub Stats" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=balivarun"
-       alt="Varun's Top Languages" />
-</a>
+Welcome to my GitHub profile!  
+I focus on building scalable, real-world web applications with clean and maintainable code.
 
-  ---
+---
 
-  ### 💻 Tech Stack
+## 🧑‍💻 About Me
 
-  **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Vite
-  **Backend:** Spring Boot, Java, Node.js
-  **Database:** MongoDB
-  **Tools:** Gradle, Docker, Vercel, Railway
+- 🌱 Full-stack developer with strong backend foundations
+- 🧠 Good understanding of DSA & system fundamentals
+- 🛠️ Enjoy working with modern web technologies
+- 📈 Always learning and improving
 
-  ---
+---
 
-  ### 💡 About Me
+## 💻 Tech Stack
 
-  - 🌱 Full-stack developer passionate about building innovative web applications
-  - 🛠️ Love experimenting with new technologies and frameworks
-  - 📫 Reach me at: [varunbali345@gmail.com](mailto:varunbali345@gmail.com)
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Vite
 
-  ---
+### Backend
+- Java
+- Spring Boot
+- Node.js
 
-  ### 📊 GitHub Highlights
+### Database
+- MongoDB
 
-  - 🔥 Active in full-stack development
-  - 🧠 Building real-world applications with modern tech
-  - 📈 Always learning and growing
+### Tools & Platforms
+- Docker
+- Gradle
+- Git & GitHub
+- Vercel
+- Railway
 
-  ---
+---
 
-  ### 📌 Let's Connect
+## 📂 What You'll Find Here
 
-  <p align="left">
-    <a href="mailto:varunbali345@gmail.com">
-      <img alt="Email"
-  src="https://img.shields.io/badge/Email-varunbali345@gmail.com-red?style=flat-square&logo=gmail">
-    </a>
-  </p>
+- 🔹 Full-stack projects
+- 🔹 Backend APIs using Spring Boot
+- 🔹 Frontend applications with React & Next.js
+- 🔹 Clean, readable, and structured code
 
-  ---
+---
 
-  ⭐ Thanks for visiting! Feel free to explore my repositories and reach out for collaborations!
+## 📬 Contact Me
 
+📧 **Email:** varunbali345@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!  
+Feel free to explore my repositories or reach out for collaboration.
