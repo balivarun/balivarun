@@ -30,9 +30,11 @@ I focus on building scalable, real-world web applications with clean and maintai
 - Java
 - Spring Boot
 - Node.js
+- Python
 
 ### Database
 - MongoDB
+- PostgreSQL
 
 ### Tools & Platforms
 - Docker
